@@ -4,6 +4,4 @@
 ![](https://github.com/planktonaz/finalBossFront/blob/main/src/assets/messages.png?raw=true)
 ![](https://github.com/planktonaz/finalBossFront/blob/main/src/assets/posts.png?raw=true)
 ![](https://github.com/planktonaz/finalBossFront/blob/main/src/assets/users.png?raw=true)
-![](https://github.com/planktonaz/finalBossFront/blob/main/src/as
-
-sets/logout.png?raw=true)
+![](https://github.com/planktonaz/finalBossFront/blob/main/src/assets/logout.png?raw=true)
