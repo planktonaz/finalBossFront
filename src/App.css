@@ -1,0 +1,263 @@
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.j-start {
+    justify-content: start;
+}
+
+.j-end {
+    justify-content: end;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.j-between {
+    justify-content: space-between;
+}
+
+.a-start {
+    align-content: start;
+}
+
+.a-center {
+    align-items: center;
+}
+
+.a-end {
+    align-content: end;
+}
+
+.gap10 {
+    gap: 10px;
+}
+
+.gap20 {
+    gap: 20px;
+}
+
+.gap30 {
+    gap: 30px;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.grow1 {
+    flex: 1;
+}
+
+.grow2 {
+    flex: 2;
+}
+
+.grow3 {
+    flex: 3;
+}
+
+.grow4 {
+    flex: 4;
+}
+
+.grow5 {
+    flex: 5;
+}
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.p5 {
+    padding: 5px;
+}
+
+.p10 {
+    padding: 10px;
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.m10 {
+    margin: 10px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.mb5 {
+    margin-bottom: 5px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.h100 {
+    height: 100%;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.relative {
+    position: relative;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0
+}
+
+.container {
+    min-height: 60vh;
+    padding: 20px 50px 30px 50px;
+    box-sizing: border-box;
+}
+
+.box {
+    height: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.box * {
+    height: 100%;
+}
+
+.box:hover {
+    cursor: pointer;
+    border: 1px solid navy;
+}
+
+.userImg {
+    height: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.userImg * {
+    height: 100%;
+}
+
+.toolbar {
+    padding: 5px;
+    border: 3px solid white;
+    margin-bottom: 5px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.profileImg {
+    height: 200px;
+}
+
+.profileImg > img {
+    height: 100%;
+}
+
+.profile > input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.modalEl > input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.post {
+}
+
+.post img {
+    height: 100px
+}
+
+.post * {
+    pointer-events: none;
+}
+
+.post:hover {
+    cursor: pointer;
+    background-color: springgreen;
+}
+
+.postImg {
+    height: 100%;
+}
+
+.modalImgBig {
+}
+
+.modalImgBig > img {
+    width: 100%;
+}
+
+.comment {
+    float: left;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.comment > span {
+    font-size: 20px;
+}
+
+.sender {
+    float: left;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    background-color: lightskyblue;
+}
+
+.receiver {
+    float: right;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    background-color: lightgreen;
+}
+
+.sender > span, .receiver > span {
+    font-size: 20px;
+}
+
+.bgFirst {
+    background-color: lightskyblue;
+}
+
+.postComments {
+    height: 200px;
+    overflow: auto;
+}

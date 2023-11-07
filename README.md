@@ -1,0 +1,7 @@
+![](https://github.com/planktonaz/finalBoss/blob/main/src/assets/reg.png)
+![](https://github.com/planktonaz/finalBoss/blob/main/src/assets/login.png)
+![](https://github.com/planktonaz/finalBoss/blob/main/src/assets/profile.png)
+![](https://github.com/planktonaz/finalBoss/blob/main/src/assets/messages.png)
+![](https://github.com/planktonaz/finalBoss/blob/main/src/assets/posts.png)
+![](https://github.com/planktonaz/finalBoss/blob/main/src/assets/users.png)
+![](https://github.com/planktonaz/finalBoss/blob/main/src/assets/logout.png)
